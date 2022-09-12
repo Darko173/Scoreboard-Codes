@@ -1,0 +1,55 @@
+body, html {
+    height: 100%;
+    
+  }
+  body{
+      margin: 0;
+      padding: 0;
+     
+  }
+  .container_first{
+      
+      /* opacity: 0.5; */
+      /* The image used */
+
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+
+  }
+  .container_first form{
+      justify-content: center;
+      /* padding-top: 2%; */
+      text-align: center;
+      font-size: 1.5rem;
+    font-weight: bold;
+    color: #808080;
+    
+      
+  }
+  .form_center{
+     padding-top: 1%;
+      
+  }
+  .container_first input{
+    background-color:  #91a6af76!important;
+    padding: 4%;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+    color: currentcolor;
+
+}
+.jumbotron .h1, .jumbotron h1 {
+  font-size: 32px;
+}
+.decs_time p{
+color: aqua;
+background-color: antiquewhite;
+}
